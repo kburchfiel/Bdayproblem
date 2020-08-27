@@ -1,3 +1,4 @@
+Note: this program does not account for leap day birthdays.
 The chance of not having a matching birthday with 1 birthday(s) is 1.
 The chance of not having a matching birthday with 2 birthday(s) is 0.99726.
 The chance of not having a matching birthday with 3 birthday(s) is 0.991796.
