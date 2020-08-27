@@ -1,6 +1,6 @@
 //AMDG
 //Program for calculating the probability that no members of a group will have matching birthdays
-//Note: does not account for leap day birthdays
+
 //Kenneth Burchfiel
 #include <iostream>
 
@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 
-{
+{cout << "Note: this program does not account for leap day birthdays.\n";
     double chanceofnomatch = 1; 
     int count = 1;
         for (double x = 365; x >= 0; x--) //For loop is equivalent to (365/365) * (364/365) * (363/365) . . . * (0/365)
