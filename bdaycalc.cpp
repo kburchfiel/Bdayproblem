@@ -1,5 +1,6 @@
 //AMDG
 //Program for calculating the probability that no members of a group will have matching birthdays
+//Note: does not account for leap day birthdays
 //Kenneth Burchfiel
 #include <iostream>
 
